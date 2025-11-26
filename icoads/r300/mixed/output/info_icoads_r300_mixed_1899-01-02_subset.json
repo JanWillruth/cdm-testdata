@@ -286,5 +286,6 @@
         "c98:RSA": "object",
         "c98:IRF": "object"
     },
-    "parse_dates": []
+    "parse_dates": [],
+    "encoding": "cp1252"
 }
